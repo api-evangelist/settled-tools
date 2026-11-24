@@ -1,4 +1,4 @@
-# settled-tools
+# Settled
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,140 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-settled-tools is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://settled.tools/
+Settled provides a public record platform for sellers and agents, offering spending limits, income reporting, and observational data on marketplaces. It hosts tools like a spend limiter, agent income reports, and venue listings, and integrates with MCP Registry, npm, and PyPI. The service emphasizes transparency, privacy, and community engagement through Discord and X.
+
+**Areas:** Company · FinTech · Marketplace · Transparency · OpenData
+
+## Settled on APIs.io
+
+Everything profiled for Settled is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/settled-tools/](https://apis.io/providers/settled-tools/)** — or go straight to one of the APIs or properties below.
+
+### APIs (38)
+
+- [Settled Bundle API](https://apis.io/apis/settled-tools/settled-tools-bundle-api/) — The Bundle API from Settled — 1 operation(s) for bundle.
+- [Settled Check API](https://apis.io/apis/settled-tools/settled-tools-check-api/) — The Check API from Settled — 1 operation(s) for check.
+- [Settled Claim API](https://apis.io/apis/settled-tools/settled-tools-claim-api/) — The Claim API from Settled — 1 operation(s) for claim.
+- [Settled Credentials API](https://apis.io/apis/settled-tools/settled-tools-credentials-api/) — The Credentials API from Settled — 3 operation(s) for credentials.
+- [Settled Deliveries API](https://apis.io/apis/settled-tools/settled-tools-deliveries-api/) — The Deliveries API from Settled — 1 operation(s) for deliveries.
+- [Settled Discovery API](https://apis.io/apis/settled-tools/settled-tools-discovery-api/) — The Discovery API from Settled — 1 operation(s) for discovery.
+- [Settled Endpoints API](https://apis.io/apis/settled-tools/settled-tools-endpoints-api/) — The Endpoints API from Settled — 1 operation(s) for endpoints.
+- [Settled Events API](https://apis.io/apis/settled-tools/settled-tools-events-api/) — The Events API from Settled — 1 operation(s) for events.
+- [Settled Export API](https://apis.io/apis/settled-tools/settled-tools-export-api/) — The Export API from Settled — 5 operation(s) for export.
+- [Settled Free API](https://apis.io/apis/settled-tools/settled-tools-free-api/) — The Free API from Settled — 2 operation(s) for free.
+- [Settled Income API](https://apis.io/apis/settled-tools/settled-tools-income-api/) — The Income API from Settled — 3 operation(s) for income.
+- [Settled Loot API](https://apis.io/apis/settled-tools/settled-tools-loot-api/) — The Loot API from Settled — 1 operation(s) for loot.
+- [Settled MCP API](https://apis.io/apis/settled-tools/settled-tools-mcp-api/) — The Mcp API from Settled — 2 operation(s) for mcp.
+- [Settled Numbers API](https://apis.io/apis/settled-tools/settled-tools-numbers-api/) — The Numbers API from Settled — 1 operation(s) for numbers.
+- [Settled Observatory API](https://apis.io/apis/settled-tools/settled-tools-observatory-api/) — The Observatory API from Settled — 3 operation(s) for observatory.
+- [Settled Pass API](https://apis.io/apis/settled-tools/settled-tools-pass-api/) — The Pass API from Settled — 3 operation(s) for pass.
+- [Settled Payto API](https://apis.io/apis/settled-tools/settled-tools-payto-api/) — The Payto API from Settled — 1 operation(s) for payto.
+- [Settled Peek API](https://apis.io/apis/settled-tools/settled-tools-peek-api/) — The Peek API from Settled — 1 operation(s) for peek.
+- [Settled Preflight API](https://apis.io/apis/settled-tools/settled-tools-preflight-api/) — The Preflight API from Settled — 1 operation(s) for preflight.
+- [Settled Proven API](https://apis.io/apis/settled-tools/settled-tools-proven-api/) — The Proven API from Settled — 2 operation(s) for proven.
+- [Settled Receipt API](https://apis.io/apis/settled-tools/settled-tools-receipt-api/) — The Receipt API from Settled — 1 operation(s) for receipt.
+- [Settled Report API](https://apis.io/apis/settled-tools/settled-tools-report-api/) — The Report API from Settled — 1 operation(s) for report.
+- [Settled Reports API](https://apis.io/apis/settled-tools/settled-tools-reports-api/) — The Reports API from Settled — 2 operation(s) for reports.
+- [Settled Retest API](https://apis.io/apis/settled-tools/settled-tools-retest-api/) — The Retest API from Settled — 2 operation(s) for retest.
+- [Settled Seller Record API](https://apis.io/apis/settled-tools/settled-tools-seller-record-api/) — The Seller Record API from Settled — 1 operation(s) for seller record.
+- [Settled Seller Watch API](https://apis.io/apis/settled-tools/settled-tools-seller-watch-api/) — The Seller Watch API from Settled — 6 operation(s) for seller watch.
+- [Settled Sellers API](https://apis.io/apis/settled-tools/settled-tools-sellers-api/) — The Sellers API from Settled — 1 operation(s) for sellers.
+- [Settled Signer API](https://apis.io/apis/settled-tools/settled-tools-signer-api/) — The Signer API from Settled — 1 operation(s) for signer.
+- [Settled Snapshots API](https://apis.io/apis/settled-tools/settled-tools-snapshots-api/) — The Snapshots API from Settled — 2 operation(s) for snapshots.
+- [Settled Status API](https://apis.io/apis/settled-tools/settled-tools-status-api/) — The Status API from Settled — 1 operation(s) for status.
+- [Settled Submit API](https://apis.io/apis/settled-tools/settled-tools-submit-api/) — The Submit API from Settled — 1 operation(s) for submit.
+- [Settled Terms API](https://apis.io/apis/settled-tools/settled-tools-terms-api/) — The Terms API from Settled — 1 operation(s) for terms.
+- [Settled Vc API](https://apis.io/apis/settled-tools/settled-tools-vc-api/) — The Vc API from Settled — 2 operation(s) for vc.
+- [Settled Venues API](https://apis.io/apis/settled-tools/settled-tools-venues-api/) — The Venues API from Settled — 2 operation(s) for venues.
+- [Settled Verify API](https://apis.io/apis/settled-tools/settled-tools-verify-api/) — The Verify API from Settled — 1 operation(s) for verify.
+- [Settled Watch API](https://apis.io/apis/settled-tools/settled-tools-watch-api/) — The Watch API from Settled — 6 operation(s) for watch.
+- [Settled .well Known API](https://apis.io/apis/settled-tools/settled-tools-well-known-api/) — The .well Known API from Settled — 1 operation(s) for .well known.
+- [Settled X401 API](https://apis.io/apis/settled-tools/settled-tools-x401-api/) — The X401 API from Settled — 2 operation(s) for x401.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Settled Agentic Access](https://apis.io/agentic-access/settled-tools/settled-tools-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Settled API Rules](https://apis.io/rules/settled-tools/settled-tools-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Settled Domain Security](https://apis.io/security/settled-tools/settled-tools-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://settled.tools/)
+- [Documentation](https://settled.tools/llms.txt)
+- [Getting started](https://settled.tools/for-agents)
+- [API reference](https://settled.tools/openapi.json)
+- [Terms of service](https://settled.tools/terms)
+- [Privacy policy](https://settled.tools/privacy)
+
+## API Evangelist rating
+
+**Kin Score 34.8** — thin · rubric 0.27.0 · scored 2026-11-24
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 39.3 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 21.1 |
+
+**Agent readiness 28.0** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | documented (partial credit) |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/settled-tools/](https://apis.io/providers/settled-tools/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Settled: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/settled-tools/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
